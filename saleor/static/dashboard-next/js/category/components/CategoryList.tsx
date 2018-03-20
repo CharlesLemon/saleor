@@ -12,7 +12,7 @@ import Folder from "material-ui-icons/Folder";
 import { Link } from "react-router-dom";
 
 import { categoryAddUrl, categoryShowUrl } from "../";
-import { CategoryPropertiesQuery } from "../gql-types";
+import { CategoryPropertiesQuery } from "../../gql-types";
 import i18n from "../../i18n";
 import Skeleton from "../../components/Skeleton";
 

@@ -20,7 +20,7 @@ import Cached from "material-ui-icons/Cached";
 import MoreVert from "material-ui-icons/MoreVert";
 import { Link } from "react-router-dom";
 
-import { CategoryPropertiesQuery } from "../gql-types";
+import { CategoryPropertiesQuery } from "../../gql-types";
 import { categoryAddUrl } from "../";
 import i18n from "../../i18n";
 import Skeleton from "../../components/Skeleton";

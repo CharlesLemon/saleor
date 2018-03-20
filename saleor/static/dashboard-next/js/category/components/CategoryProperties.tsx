@@ -11,7 +11,7 @@ import {
   categoryDeleteMutation
 } from "../mutations";
 import { categoryEditUrl, categoryShowUrl } from "../index";
-import { CategoryPropertiesQuery } from "../gql-types";
+import { CategoryPropertiesQuery } from "../../gql-types";
 import i18n from "../../i18n";
 
 interface CategoryPropertiesProps {
